@@ -1,0 +1,18 @@
+{
+  "name": "rollup-cjs-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "dependencies": {
+    "@babel/runtime": "^7.12.5",
+    "example-package": "^1.0.0",
+    "next": "^10.0.3"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^17.0.0",
+    "@rollup/plugin-node-resolve": "^11.0.0",
+    "rollup": "^2.34.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
